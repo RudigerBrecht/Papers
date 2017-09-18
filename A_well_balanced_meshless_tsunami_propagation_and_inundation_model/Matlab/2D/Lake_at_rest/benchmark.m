@@ -1,4 +1,4 @@
-function lakeAtRest2d()
+function benchmark()
 
 % integration time and timestepping
 t=20;
