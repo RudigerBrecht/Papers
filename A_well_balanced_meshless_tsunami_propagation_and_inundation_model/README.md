@@ -9,6 +9,6 @@ and two-dimensional benchmarks are presented.
 In the Matlab folder we present the code to reproduce the results of the benchmarks.
 Therefore clone the this repository:
 
-`git clone https://github.com/evankielley/GDD.git`
+`git clone https://github.com/RudigerBrecht/Papers.git`
 
 and run the **_benchmark.m_** file.
